@@ -31,6 +31,8 @@ jobs:
     - name: Checkout to the branch
       uses: actions/checkout@v2
 
+    - run: pwd
+    
     - name: Azure Login
       uses: azure/login@v1
       with:
