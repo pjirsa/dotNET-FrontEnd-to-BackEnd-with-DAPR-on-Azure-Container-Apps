@@ -8,7 +8,7 @@ on:
 env:
   
   # alphanumeric string under 14 characters
-  RESOURCE_GROUP_NAME: container-store-demo
+  RESOURCE_GROUP_NAME: containerstore
 
   # specify your preferred region
   REGION: centralus
